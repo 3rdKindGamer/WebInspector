@@ -17,7 +17,7 @@ Explore the generated output to gain insights into the website's structure and c
 Repeat the process to inspect different websites or exit the tool.
 Dependencies:
 
-.NET Core 3.1 or higher
+.NET Core 7.0.
 HtmlAgilityPack library
 Getting Started:
 
